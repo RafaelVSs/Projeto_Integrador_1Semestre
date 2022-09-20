@@ -1,6 +1,6 @@
 Disciplinas do PI:
 - Desenvolvimento Web
-- Banco de Dados
+- Modelagem de Banco de Dados
 - Design Digital
 - Lógica de programação e algorítmos 
 - Engenharia de Software
